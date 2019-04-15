@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+
+.sp {
+    content: "\21D3";
+    color: green;
+    font-size: 30px;
+    margin-left:150px;
+
+}
+
+.head{
+    width:100%;
+}
+.head1{
+   width:100%;
+   background-image:url("src\assets\Blank.jpg");
+   height:600px;
+   margin-top:-3.4px;
+}
+
+.imgs{
+    width:20%;
+    height:225px;
+}
+
+.imgs:hover{
+    transform: scale(0.9);
+    overflow: hidden;
+    
+}
+
+.buttn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bimg{
+    height: 91px;
+    width: 30%;
+}
